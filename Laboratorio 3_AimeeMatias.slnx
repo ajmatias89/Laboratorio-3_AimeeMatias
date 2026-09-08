@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../CasoJuegoCraps/CasoJuegoCraps/CasoJuegoCraps.csproj" />
+  <Project Path="../FormularioMDI/FormularioMDI/FormularioMDI.csproj" Id="bb51cf63-98ba-466c-a69a-e3fb3bb654ba" />
   <Project Path="Laboratorio 3_AimeeMatias/Laboratorio 3_AimeeMatias.csproj" Id="a8b6807f-5e22-4162-a476-f8129d2c97d0" />
 </Solution>
